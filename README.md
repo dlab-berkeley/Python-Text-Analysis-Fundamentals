@@ -1,4 +1,4 @@
-# Computational text analysis
+# Computational text analysis for Spring 2019
 
 
 ## Overview
