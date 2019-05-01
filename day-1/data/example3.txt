@@ -1,0 +1,13 @@
+
+
+This is a text file that has some extra whitespace at the start and end. Whitespace is a catch-all term for spaces, tabs, newlines, and a bunch of other things that computers distinguish but to us all look like spaces, tabs and newlines.
+
+
+The Python method called "strip" only catches whitespace at the start and end of a string. But it won't catch it in       the middle,		for example,
+
+in this sentence.		Once again, regular expressions will
+
+help		us    with this.
+
+
+

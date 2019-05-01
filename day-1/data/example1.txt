@@ -1,0 +1,1 @@
+In this little example, we're going to see some of the problems that regularly appear in tokenization. Tokenization may seem simple, but it's harder than it first appears. Why is it so hard? Punctuations, contractions (like don't, won't and would've) get in the way. 

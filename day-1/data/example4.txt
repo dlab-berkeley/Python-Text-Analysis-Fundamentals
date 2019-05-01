@@ -1,0 +1,1 @@
+Upper and lower case characters can be annoying. Characters are the individual letters and numbers that we see on the page. Case folding is the generic term we use for dealing with upper and lower case characters. Lower case is often what people want. Title Case refers to a multi-word expression with the first character of every word in upper case. 
