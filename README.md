@@ -1,5 +1,4 @@
-# Computational text analysis for Spring 2019
-
+# Python Text Analysis Fundamentals: Parts 1-3
 
 ## Overview
 
@@ -31,6 +30,10 @@ If you've been using Python for a while, you might not want to use Anaconda. Fir
 ```
 pip3 install -r requirements.txt
 ```
+
+#### Are Anaconda, Python, or Jupyter not working on your laptop?
+
+You can also access the workshop materials through your browser on UC Berkeley's DataHub by clicking this [link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-text-analysis-fundamentals&urlpath=tree%2Fpython-text-analysis-fundamentals%2F&branch=main). Datahub is a great option if you aren't able to install Anaconda, Python, or Jupyter locally. CalNet ID credentials required.
 
 ## IOKN2K
 
